@@ -1,2 +1,2 @@
 # git-command
-git 命令联系
+git 命令练习
